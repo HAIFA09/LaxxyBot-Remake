@@ -8,7 +8,7 @@
 <img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="400" height="400"/>
 </p>
  <p align="center">
-<a href="#"><img title="Laxxy Botz" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Laxxy Botz" src="https://img.shields.io/badge/Laxxy%20Botz-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://wa.me/6282311272942"><img title="Author" src="https://img.shields.io/badge/Author-Laxxy Botz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
